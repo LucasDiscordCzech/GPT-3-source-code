@@ -17,4 +17,4 @@ If you're not from top.gg please vote BoltBot⚡! It's much appreciated!
   <img src="https://top.gg/api/widget/1071499268818485289.svg">
 </a>
 
-For support direct message me: Lucas ⚡#9650
+# For support or questions direct message me on discord: Lucas ⚡#9650
